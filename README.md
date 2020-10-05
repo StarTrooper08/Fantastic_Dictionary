@@ -16,7 +16,7 @@ Difflib   --> This module is too present when we install python on our system so
 req_data.json  --->You can copy this file from my repository.
 
 
-This Fantastic_Dictionary Application is Sequeal of the following Dictionary:
+This Fantastic_Dictionary Application is sequel of the following Dictionary:
 
 https://github.com/vasu2411/Interactive_Dictionary
 
