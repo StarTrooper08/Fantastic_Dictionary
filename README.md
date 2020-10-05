@@ -18,6 +18,10 @@ req_data.json  --->You can copy this file from my repository.
 
 This Fantastic_Dictionary Application is Sequeal of the following Dictionary:
 
+https://github.com/vasu2411/Interactive_Dictionary
+
+You can also find the explaination blog link on this repo(not a promotion,I geniunely read that blog and done some changes to make the application recursive.)
+
 
 
 
