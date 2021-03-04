@@ -27,4 +27,4 @@ You can also find the explaination blog link on this repo(not a promotion,I geni
 
 For basic understanding of this Dictionary you visit this link and learn from there too.
 
-This Dictionary application was edited from the above git repo to learn Recursive function by me(@StarTrooper08). 
+This Dictionary application was edited from the above git repo to learn Recursive function by me(@DevAStar08). 
